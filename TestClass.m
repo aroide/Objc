@@ -10,16 +10,22 @@
 
 @implementation TestClass
 
-- (id)initWithTest:(NSString *)test {
-    
+
+- (id)initWithTest:(NSString *)test 
+{    
     self = [super init];
     
     return self;
 }
 
-- (void)testRequiredProtocol {
+- (void)testRequiredProtocol 
+{
     NSLog(@"testRequiredProtocol");
 }
 
+- (void)testFunc
+{
+
+}
 
 @end

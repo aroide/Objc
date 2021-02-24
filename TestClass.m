@@ -2,7 +2,7 @@
 //  TestClass.m
 //  Hoon Project
 //
-//  Created by 김택훈 on 14/05/2019.
+//  Created by Hoon on 14/05/2019.
 //  Copyright © 2019 김택훈. All rights reserved.
 //
 

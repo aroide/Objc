@@ -32,6 +32,8 @@ aroide 가 작성
 4. aroide가 입력
 
 5. 이건 XCode 에서 커밋해요
+
+6. 토큰도 만들었어요
 @end
 
 

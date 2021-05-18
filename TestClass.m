@@ -30,6 +30,7 @@ aroide 가 작성
 3. aroide777 추가
 4. aroide777 추가
 4. aroide가 입력
+5. aroide777 input
 @end
 
 
